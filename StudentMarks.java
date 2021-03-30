@@ -7,7 +7,7 @@ public class StudentMarks {
 	public static void main(String[] args) {
 		
 		int eng, java, spring, db, totalMarks, avgMarks;
-		System.out.println("Please enter the marks for the student");
+		System.out.println("Please enter the marks for the student in the order of English, Java, Spring Tools and Database");
 		Scanner sc = new Scanner(System.in);
 		eng = sc.nextInt();
 		java = sc.nextInt();
