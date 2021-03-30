@@ -28,7 +28,7 @@ public static void main(String[] args) {
 		totalSalary = basicSalary + hra + da - tax;
 		
 		
-		System.out.print("The Annual Take-Home Salary for the employee is: " + totalSalary + "\nThe Annual Tax is: " + tax + "\n" + "\nThe Annual HRA is: " + hra + "\n"+ "\nThe Annual DA is: " + da + "\n");
+		System.out.print("The Annual Take-Home Salary for the employee is: " + totalSalary + "\nThe Annual Tax is: " + tax + "\nThe Annual HRA is: " + hra + "\nThe Annual DA is: " + da + "\n");
 	}
 
 }
