@@ -16,7 +16,6 @@ public static void main(String[] args) {
 			System.out.println("Invalid day! Please enter a number between 1 and 31.");
 		}
 		else {
-			System.out.println(day%100);
 			System.out.print(day);
 			if(((day % 10) == 1) && (day != 11)) {
 				System.out.println("st");
